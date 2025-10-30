@@ -8,6 +8,7 @@ pera(img2)
 img3 = 'pera_3.jpg'
 pera(img3)
 
+#manzana results
 manzana_n  = cv2.imread("manzana.jpg")
 manzana_np = cv2.imread("manzana_not_fresh.jpg")
 manzana_p  = cv2.imread("manzana_podrida.jpg")
